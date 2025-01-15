@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on python projects<br>
+🔭 I’m currently working on python and university projects<br>
 
 
 # 💻 Tech Stack:
